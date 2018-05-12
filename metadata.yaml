@@ -1,0 +1,36 @@
+_repo: Household-Education_38179
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Martineau, Harriet
+    birthdate: 1802
+    deathdate: 1876
+    gutenberg_agent_id: '25319'
+    url: http://www.gutenberg.org/2009/agents/25319
+    wikipedia: http://en.wikipedia.org/wiki/Harriet_Martineau
+description: ''
+gutenberg_issued: '2011-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38179'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Family life education'
+- !lcsh 'Education'
+- !lcc 'LC'
+tableOfContents: 'Old and young in school -- What the schooling is for -- The natural
+  possessions of man -- How to expect -- The golden mean -- The new comer -- Care
+  of the frame -- Care of the powers: will -- Hope -- Fear -- Patience -- Patience:
+  infirmity -- Love -- Veneration -- Truthfulness -- Conscientiousness -- Intellectual
+  training: its requisites -- Order of development. The perceptive faculties -- The
+  conceptive faculties -- The reasoning faculties. Female education -- The imaginative
+  faculties -- Care of the habits; importance of habit -- Personal habits -- Family
+  habits -- Conclusion.'
+title: Household Education
+url: http://www.gutenberg.org/ebooks/38179
